@@ -37,3 +37,21 @@ font-family: 'Open Sans', sans-serif;
   border-radius: 5px;
   border: none;
 }
+/* section two styles */
+.section-two{
+ display: flex;
+ margin:x;
+ align:center;
+}
+
+.right{
+  font-size: 30px;
+  font-weight: 240px;
+
+
+}
+.right-title{
+  font-size: 40px;
+  font-weight: 700;
+  padding-top: 80px;
+}
