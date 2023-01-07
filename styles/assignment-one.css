@@ -202,7 +202,25 @@ input{
 
 
 }
+/*  new section styles */
+.blog{
+  display: flex;
+  gap: 30px;
+  padding-left: 340px;
+  padding-bottom: 60px;
 
+}
+.blog-item{
+  color: white;
+  border: none;
+  border-radius: 5px;
+  background: blue;
+  padding: 70px 80px;
+  width: 200px;
+  height: 250px;
+  pa
+
+}
 
 
 
