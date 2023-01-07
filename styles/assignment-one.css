@@ -48,6 +48,9 @@ padding-bottom: 50px;
  
  
 }
+.left{
+  padding-top: 50px;
+}
 
 .right{
   padding-left: 50px;
@@ -127,7 +130,7 @@ padding-bottom: 16px;
 }
 /* contact section styles */
 .contact{
-  background-color: rgb(100, 110, 110);
+  background-color: rgb(0, 4, 4);
   display: flex;
  
 }
@@ -153,6 +156,9 @@ padding-bottom: 16px;
   font-weight: 600;
   padding-bottom: 31px;
 }
+.add-padding{
+  padding-bottom: 24px;
+}
 .info{
   padding-bottom: 16px;
   color: #ffff;
@@ -164,10 +170,30 @@ padding-bottom: 16px;
 .link{
   padding:6px;
 }
-/* contact form styles */
+
 .contact-from{
   padding-top: 130px ;
   padding-left: 230px;
+}
+input{
+  color: #ffff;
+  background: black;
+  padding-top: 21px;
+  padding-left: 21px;
+  padding-right: 160px;
+  padding-bottom: 20px;
+  border-radius: 5px;
+}
+.contact-button{
+  color: #ffff;
+  border: none;
+  font-weight: 600;
+  font-size: 20px;
+  border-radius: 5px;
+  background: blue;
+  padding: 20px 36px;
+
+
 }
 
 
