@@ -85,17 +85,24 @@ padding-bottom: 16px;
 }
 .parent-div{
   display: flex;
-  gap: 70px;
-  padding-left: 300px;
+  gap: 50px;
+  padding-left: 380px;
   padding-right: 300px;
   margin-left: 150px;
   padding-bottom: 50px;
 
 }
-.child-div{
-  /* padding-bottom: 130px; */
-  
+.cd-title{
+  color: #151414;
+  font-weight: 700;
+  font-size: 24px;
 }
+.cd-sub-title{
+color: #737272;
+font-weight: 700;
+font-size: 20px;
+}
+
 
 .linear-gradient{
   width: 1140px;
