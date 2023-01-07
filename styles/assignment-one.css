@@ -3,8 +3,8 @@
  padding: 0;
 font-family: 'Open Sans', sans-serif;
 }
-/* section one styles */
-.section-items{
+/*  header styles */
+.header-items{
   background-image: url(../images/banner/banner3.png);
   background-size: cover;
   background-repeat: no-repeat;
