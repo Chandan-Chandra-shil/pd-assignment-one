@@ -37,8 +37,8 @@ font-family: 'Open Sans', sans-serif;
   border-radius: 5px;
   border: none;
 }
-/* section two styles */
-.section-two{
+/* section one styles */
+.section-one{
  display: flex;
  align-items: center;
  padding-left: 222px;
@@ -70,11 +70,11 @@ padding-bottom: 16px;
 .icon{
   padding: 6px;
 }
-/* section three styles */
+/* section two styles */
 .section-three{
 
 }
-.section-three-title{
+.section-two-title{
   text-align: center;
   font-weight: 700;
   font-size: 40px;
@@ -202,7 +202,7 @@ input{
 
 
 }
-/*  new section styles */
+/*  blog section styles */
 .blog{
   display: flex;
   gap: 30px;
